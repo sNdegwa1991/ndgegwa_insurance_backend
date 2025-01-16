@@ -6,7 +6,7 @@ password = Admin@123
 
 Install database located in folder name Postgres_Database. This is a postgreSQL Database. Update appsettings.json to the credentials of your database.
 
-## APIs Endpoins
+## APIs Endpoints
 1. **POST /api/auth/login**  --- Generate login JWT token <br/>
    Request body: <br/>
    {
