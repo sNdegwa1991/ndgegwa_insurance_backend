@@ -1,0 +1,6 @@
+@NdegwaInsuranceApi_HostAddress = http://localhost:5252
+
+GET {{NdegwaInsuranceApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
